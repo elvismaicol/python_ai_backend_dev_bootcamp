@@ -1,5 +1,5 @@
 # Exemplo de função com parametros aceitos apenas por nome, a "/" delimita até onde os paramentos são por posição
-# E o "*" até onde é somente por nome 
+# E o "*", tudo que vem depois é somente nomeado
 
 def criar_carro(modelo, ano, placa, /, *, marca, motor, combustivel):
     print(modelo, ano, placa, marca, motor, combustivel)
