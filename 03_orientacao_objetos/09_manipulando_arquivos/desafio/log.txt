@@ -1,0 +1,6 @@
+[2024-05-09 13:01:00] Função 'criar_cliente' executada com argumentos ([<__main__.PessoaFisica object at 0x0000019FCD12CB50>],) e {}. Retornou None
+[2024-05-09 13:01:48] Função 'criar_conta' executada com argumentos (1, [<__main__.PessoaFisica object at 0x0000019FCD12CB50>], [<__main__.ContaCorrente object at 0x0000019FCCB36050>]) e {}. Retornou None
+[2024-05-09 13:08:28] Função 'criar_cliente' executada com argumentos ([<PessoaFisica: ('1', '1')>],) e {}. Retornou None
+[2024-05-09 13:09:20] Função 'criar_conta' executada com argumentos (1, [<PessoaFisica: ('1', '1')>], [<ContaCorrente: ('0001', '1', '1')>]) e {}. Retornou None
+[2024-05-09 13:10:49] Função 'criar_cliente' executada com argumentos ([<PessoaFisica: ('1', '1')>, <PessoaFisica: ('Elvis', '122323')>],) e {}. Retornou None
+[2024-05-09 13:13:05] Função 'criar_conta' executada com argumentos (2, [<PessoaFisica: ('1', '1')>, <PessoaFisica: ('Elvis', '122323')>], [<ContaCorrente: ('0001', '1', '1')>, <ContaCorrente: ('0001', '2', '1')>]) e {}. Retornou None
